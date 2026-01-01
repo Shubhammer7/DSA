@@ -1,0 +1,10 @@
+# VS Code
+.vscode/
+
+# Compiled binaries
+main
+linear_search
+*.dSYM
+
+# Scratch files
+Arrays/main.cpp
