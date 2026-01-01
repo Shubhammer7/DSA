@@ -8,3 +8,6 @@ linear_search
 
 # Scratch files
 Arrays/main.cpp
+
+# macOS
+.DS_Store
